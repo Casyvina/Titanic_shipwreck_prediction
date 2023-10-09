@@ -1,4 +1,4 @@
-# Titanic Shipwreck Prediction from Kaggle Dataset
+# Titanic Shipwreck Survival Prediction from Kaggle Dataset
 ![logo](titanic.jpg)
 Overview
 The Titanic shipwreck was one of the most infamous maritime disasters in history. On April 15, 1912, the Titanic sank after striking an iceberg during her maiden voyage, killing 1,502 people.
